@@ -1,1 +1,1 @@
-
+This is my personal portfolio website. It shows who I am, what skills I have, and the projects I’ve worked on. You can also find my contact details and links to my social media. The website is built using HTML, CSS, and JavaScript, and it works well on both phones and computers.
